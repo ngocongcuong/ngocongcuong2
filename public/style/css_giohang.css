@@ -1,0 +1,32 @@
+
+table {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+tr {
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+}
+.container div{
+	margin:0 auto;
+	text-align: center;
+}
+.bt {
+	font-size: 24px;
+	color: white;
+	padding: 5px 8px;
+	border-radius: 3px;
+}
+.sub {
+	background-color: #fed100;
+}
+.add {
+	background-color: green;
+}
+.del {
+	background-color: #ff0000;
+}
+td:last-child {
+	width: 170px;
+}
